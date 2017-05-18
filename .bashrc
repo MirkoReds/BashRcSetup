@@ -1,3 +1,12 @@
+
+############################################################
+#
+# Simple but Cute and Helpful (TM) Bash Settings
+#
+############################################################
+
+#!/usr/bin/env bash
+
 alias ls="ls --color=auto"
 function prompt 
 {
